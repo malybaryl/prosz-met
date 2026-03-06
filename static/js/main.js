@@ -74,9 +74,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
             if (!translations[lang]) {
                 try {
-                    const response = await fetch(`/locales/${lang}.json`);
+                    const response = await fetch(`./locales/${lang}.json`);
                     if (!response.ok) {
-                        console.error(`Status ${response.status}: Failed to load /locales/${lang}.json`);
+                        console.error(`Status ${response.status}: Failed to load ./locales/${lang}.json`);
                         return;
                     }
                     translations[lang] = await response.json();
