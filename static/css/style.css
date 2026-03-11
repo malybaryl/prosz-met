@@ -260,7 +260,7 @@ header.scrolled {
 .hero-tag i { font-size: 0.75rem; }
 
 .hero-content h1 {
-    font-size: clamp(2.5rem, 6vw, 5rem);
+    font-size: clamp(2rem, 5vw, 4rem);
     color: var(--white);
     font-weight: 800;
     letter-spacing: 1px;
@@ -274,7 +274,7 @@ header.scrolled {
 }
 
 .hero-content p {
-    font-size: clamp(1rem, 2vw, 1.2rem);
+    font-size: clamp(1rem, 2vw, 1rem);
     color: rgba(255,255,255,0.7);
     max-width: 680px;
     margin: 20px auto 40px;
@@ -286,7 +286,7 @@ header.scrolled {
     gap: 16px;
     justify-content: center;
     flex-wrap: wrap;
-    margin-bottom: 72px;
+    margin-bottom: 50px;
 }
 
 .hero-stats {
