@@ -93,5 +93,6 @@
     "footer_privacy": "Privacy Policy",
     "footer_cookies": "Cookie Policy",
     "cookie_banner_text": "This site uses cookies to ensure the best quality of service. <a href=\"privacy.html\">Learn more</a>",
-    "cookie_banner_button": "Accept"
+    "cookie_banner_button": "Accept",
+    "contact_form_consent": "I consent to the processing of my personal data by PROSZ-MET Sp. z o.o. for the purpose of responding to my enquiry, in accordance with the <a href=\"privacy.html\" target=\"_blank\">Privacy Policy</a>. Providing data is voluntary."
 }

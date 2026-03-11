@@ -93,5 +93,6 @@
     "footer_privacy": "Zásady ochrany osobných údajov",
     "footer_cookies": "Zásady cookies",
     "cookie_banner_text": "Táto stránka používa súbory cookie. <a href=\"privacy.html\">Zistiť viac</a>",
-    "cookie_banner_button": "Prijať"
+    "cookie_banner_button": "Prijať",
+    "contact_form_consent": "Súhlasím so spracovaním svojich osobných údajov spoločnosťou PROSZ-MET Sp. z o.o. na účely zodpovedania môjho dopytu v súlade so <a href=\"privacy.html\" target=\"_blank\">Zásadami ochrany osobných údajov</a>. Poskytnutie údajov je dobrovoľné."
 }

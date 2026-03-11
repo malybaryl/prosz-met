@@ -93,5 +93,6 @@
     "footer_privacy": "Polityka Prywatności",
     "footer_cookies": "Polityka Cookies",
     "cookie_banner_text": "Ta strona używa plików cookie w celu zapewnienia najlepszej jakości usług. <a href=\"privacy.html\">Dowiedz się więcej</a>",
-    "cookie_banner_button": "Akceptuję"
+    "cookie_banner_button": "Akceptuję",
+    "contact_form_consent": "Wyrażam zgodę na przetwarzanie moich danych osobowych przez PROSZ-MET Sp. z o.o. w celu udzielenia odpowiedzi na moje zapytanie, zgodnie z <a href=\"privacy.html\" target=\"_blank\">Polityką Prywatności</a>. Podanie danych jest dobrowolne."
 }

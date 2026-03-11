@@ -93,5 +93,6 @@
     "footer_privacy": "Datenschutzrichtlinie",
     "footer_cookies": "Cookie-Richtlinie",
     "cookie_banner_text": "Diese Website verwendet Cookies für die beste Servicequalität. <a href=\"privacy.html\">Mehr erfahren</a>",
-    "cookie_banner_button": "Akzeptieren"
+    "cookie_banner_button": "Akzeptieren",
+    "contact_form_consent": "Ich stimme der Verarbeitung meiner personenbezogenen Daten durch PROSZ-MET Sp. z o.o. zur Beantwortung meiner Anfrage gemäß der <a href=\"privacy.html\" target=\"_blank\">Datenschutzrichtlinie</a> zu. Die Angabe der Daten ist freiwillig."
 }

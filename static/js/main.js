@@ -223,8 +223,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const galleryEl = document.getElementById('modal-gallery-imgs');
         const dotsEl    = document.getElementById('modal-dots');
-        const titleEl   = document.getElementById('modal-title');
-        const descEl    = document.getElementById('modal-desc');
 
         galleryEl.innerHTML = '';
         dotsEl.innerHTML    = '';
@@ -238,14 +236,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const dot = document.createElement('button');
             dot.className = 'modal-dot' + (i === 0 ? ' active' : '');
+            dot.setAttribute('aria-label', 'Zdjecie ' + (i + 1));
             dot.addEventListener('click', () => goToSlide(i));
             dotsEl.appendChild(dot);
         });
-
-        const lang = getCookie('language') || 'pl';
-        const t = translations[lang] || {};
-        titleEl.textContent = t[data.titleKey] || data.titleKey;
-        descEl.textContent  = t[data.descKey]  || data.descKey;
 
         if (modalPrev) modalPrev.style.display = currentImages.length > 1 ? '' : 'none';
         if (modalNext) modalNext.style.display = currentImages.length > 1 ? '' : 'none';
