@@ -79,8 +79,8 @@ window.projectData = {
     titleKey: "project10_title",
     descKey: "project10_desc",
     images: [
-      "static/img/obudowadetektora/obudowadetektora-1.jpg",
-      "static/img/obudowadetektora/obudowadetektora-2.jpg",
+      "static/img/obudowadetektora/obudowadetektora1.jpg",
+      "static/img/obudowadetektora/obudowadetektora2.jpg",
     ],
   },
 };

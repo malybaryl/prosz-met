@@ -6,24 +6,24 @@ This repository contains the source code for the official website of Prosz-Met, 
 
 Prosz-Met is a Polish company specializing in the casting of zinc and lead, as well as the grinding of various metals. With a commitment to quality guaranteed by ISO 9001:2001 certification, the company offers a wide range of products and services, including:
 
--   **Medical Equipment:** High-quality supplies for various medical applications.
--   **Laboratory Supplies:** A range of products for laboratory use.
--   **Radiological Shields:** Protective solutions against radiation.
--   **Custom Castings:** Custom lead and zinc castings.
--   **Metal Powders:** Production of various metal powders.
+- **Medical Equipment:** High-quality supplies for various medical applications.
+- **Laboratory Supplies:** A range of products for laboratory use.
+- **Radiological Shields:** Protective solutions against radiation.
+- **Custom Castings:** Custom lead and zinc castings.
+- **Metal Powders:** Production of various metal powders.
 
 ## Features
 
--   **Multi-language Support:** The website is available in multiple languages to cater to a global audience.
--   **Product Showcase:** Detailed presentation of the company's product and service offerings.
--   **Responsive Design:** The site is designed to work seamlessly on desktops, tablets, and mobile devices.
+- **Multi-language Support:** The website is available in multiple languages to cater to a global audience.
+- **Product Showcase:** Detailed presentation of the company's product and service offerings.
+- **Responsive Design:** The site is designed to work seamlessly on desktops, tablets, and mobile devices.
 
 ## Project Structure
 
 ```
 .
 ├── locales
-|   ├── cs.json 
+|   ├── cs.json
 |   ├── de.json
 |   ├── en.json
 |   ├── es.json
@@ -44,6 +44,9 @@ Prosz-Met is a Polish company specializing in the casting of zinc and lead, as w
 |   |   ├── mobilki
 |   |   |    ├── mobilki1.jpg
 |   |   |    └── mobilki2.jpg
+|   |   ├── obudowadetektora
+|   |   |    ├── obudowadetektora1.jpg
+|   |   |    └── obudowadetektora2.jpg
 |   |   ├── oslona
 |   |   |    ├── oslona1.jpg
 |   |   |    ├── oslona2.jpg
@@ -67,6 +70,7 @@ Prosz-Met is a Polish company specializing in the casting of zinc and lead, as w
 |   |   |    ├── statek2.jpg
 |   |   |    └── statek3.jpg
 |   |   ├── background.jpg
+|   |   ├── icon.png
 |   |   ├── logo.png
 |   └── js
 |       └── main.js
@@ -76,8 +80,8 @@ Prosz-Met is a Polish company specializing in the casting of zinc and lead, as w
 
 ## Technologies Used
 
--   **HTML5**
--   **CSS3**
--   **JavaScript**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 This is a static website built with standard web technologies, ensuring fast loading times and wide compatibility.
