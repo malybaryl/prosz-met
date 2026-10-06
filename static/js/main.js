@@ -1,6 +1,5 @@
 /* =========================================================
-   PROSZ-MET – main.js  (kompatybilny z style.css)
-   AOS class: aos-animate (zgodnie z CSS)
+  PROSZ-MET sp. z o.o. | All rights reserved.
    ========================================================= */
 
 window.projectData = {
